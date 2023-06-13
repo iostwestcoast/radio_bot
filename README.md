@@ -2,6 +2,22 @@
 
 Remote controlled bot based on an Arduino using a radio module
 
+Сomponents:
+
+NRF,
+NRF+,
+x2 5v to 3.3 v,
+Motor Shield,
+Arduino Leonardo/Amperka Iskra Neo,
+x2 18650,
+x2 DC motor,
+x2 joystick,
+RGB LED strip,
+potentiometer,
+x2 bradboard,
+powerbank,
+servo 360.
+
 The final look of the bot:
 
 ![photo_2023-06-13_16-50-49](https://github.com/iostwestcoast/radio_bot/assets/114690482/110eeee0-d2ee-4c9b-81e7-477d4c5edd63)
