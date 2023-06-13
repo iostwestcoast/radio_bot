@@ -15,31 +15,31 @@ https://github.com/iostwestcoast/radio_bot/assets/114690482/ab062ac3-bc5f-469a-a
 
 Сomponents:
 
-NRF,
+- NRF,
 
-NRF+,
+- NRF+,
 
-Motor Shield,
+- Motor Shield,
 
-Arduino Leonardo/Amperka Iskra Neo,
+- Arduino Leonardo/Amperka Iskra Neo,
 
-Arduino Pro Micro,
+- Arduino Pro Micro,
 
-x2 18650,
+- x2 18650,
 
-x2 DC motor,
+- x2 DC motor,
 
-x2 joystick,
+- x2 joystick,
 
-RGB LED strip,
+- RGB LED strip,
 
-potentiometer,
+- potentiometer,
 
-x2 bradboard,
+- x2 bradboard,
 
-powerbank,
+- powerbank,
 
-servo 360.
+- servo 360.
 
 The bot was created to pass a certain obstacle course and unfortunately for technical reasons did not meet expectations
 
