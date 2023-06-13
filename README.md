@@ -3,12 +3,12 @@
 Remote controlled bot based on an Arduino using a radio module
 
 Сomponents:
-
 NRF,
 NRF+,
 x2 5v to 3.3 v,
 Motor Shield,
 Arduino Leonardo/Amperka Iskra Neo,
+Arduino Pro Micro,
 x2 18650,
 x2 DC motor,
 x2 joystick,
