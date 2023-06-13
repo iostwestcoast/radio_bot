@@ -9,6 +9,8 @@ Remote controlled bot based on an Arduino using a radio module
 
 
 
+The bot was created to pass a certain obstacle course and unfortunately for technical reasons did not meet expectations
+![image](https://github.com/iostwestcoast/radio_bot/assets/114690482/be7ff708-898a-4c7a-b90d-fde0acee8878)
 
 
 
