@@ -11,9 +11,7 @@ The final view of the control panel:
 
 ![photo_2023-06-13_16-51-03](https://github.com/iostwestcoast/radio_bot/assets/114690482/19a8508d-04a6-48b0-b743-19bfc72776d4)
 
-https://github.com/iostwestcoast/radio_bot/assets/114690482/bb12c9c2-ff00-4fac-89be-b3e5508a201c
-
-
+https://github.com/iostwestcoast/radio_bot/assets/114690482/ab062ac3-bc5f-469a-a076-65d38420400c
 
 The bot was created to pass a certain obstacle course and unfortunately for technical reasons did not meet expectations
 In the end, 1/4 of the obstacle was passed and it took 9.45 minutes to complete the entire course
