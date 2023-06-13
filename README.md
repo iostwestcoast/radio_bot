@@ -11,6 +11,7 @@ The final view of the control panel:
 
 ![photo_2023-06-13_16-51-03](https://github.com/iostwestcoast/radio_bot/assets/114690482/19a8508d-04a6-48b0-b743-19bfc72776d4)
 
+https://github.com/iostwestcoast/radio_bot/assets/114690482/bb12c9c2-ff00-4fac-89be-b3e5508a201c
 
 
 
