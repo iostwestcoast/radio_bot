@@ -39,6 +39,8 @@ https://github.com/iostwestcoast/radio_bot/assets/114690482/ab062ac3-bc5f-469a-a
 
 - powerbank,
 
+- vape mod,
+
 - servo 360.
 
 The bot was created to pass a certain obstacle course and unfortunately for technical reasons did not meet expectations
